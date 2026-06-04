@@ -1,0 +1,2 @@
+data/raw/patents-get-v6.csv filter=lfs diff=lfs merge=lfs -text
+data/cleaned/spans.parquet filter=lfs diff=lfs merge=lfs -text
